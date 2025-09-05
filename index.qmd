@@ -13,7 +13,7 @@ I'm a **Marketing Management major** passionate about digital strategy, analytic
 
 ## About Me
 
-I hold a <span class="badge-blaugrana">Bachelor of Science in Marketing Management</span> from **Cal Poly Pomona**, and bring a focused skill set in digital strategy, advertising analytics, and performance optimization. I’ve worked with tools like Google Analytics, Meta Ads Manager, R, and Excel to analyze campaign data, refine audience targeting, and measure ROI. My approach blends creativity with data to deliver marketing solutions that are both effective and measurable.
+I hold a <span class="badge-blaugrana">Bachelor of Science in Marketing Management</span> from **Cal Poly Pomona**, and bring a focused skill set in digital strategy, advertising analytics, and performance optimization. I’ve worked with tools like Google Analytics, Meta Ads Manager, Rstudio, and Excel to analyze campaign data, refine audience targeting, and measure ROI. My approach blends creativity with data to deliver marketing solutions that are both effective and measurable.
 
 
 ## What I Do
